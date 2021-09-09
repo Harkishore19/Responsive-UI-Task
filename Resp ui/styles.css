@@ -1,0 +1,1007 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    overflow:auto ;
+}
+div#maindiv {
+    width: 100%;
+    margin: 0 auto;
+    overflow: auto;
+}
+nav{
+    width: 100%;
+    height: 65px;
+}
+#Logo {
+    float: left;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+    height: 60px;
+}
+img#logotext {
+    height: 25px;
+    position: absolute;
+    left: 120px;
+    top: 25px;
+}
+nav ul {
+    list-style: none;
+    position: absolute;
+    top: 15px;
+    right: 170px;
+}
+nav li {
+    display: inline;
+    font-size: 20px;
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-color: #4BA87D;
+    margin-right: 40px;
+    text-underline-position: under;
+    text-decoration-thickness: 5px;
+}
+nav h6 {
+    background-color: #4BA87D;
+    color: white;
+    display: inline-block;
+    padding: 10px 30px;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+}
+article {
+    width: 83%;
+    height: 400px;
+    background-image: url(Source/photo-1544717302-de2939b7ef71\ \(image\).jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 62%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+img#Create {
+    width: 440px;
+    position: relative;
+    top: 50px;
+    left: 65px;
+}
+#MP, #MC{
+    display: none;
+}
+img#p1 {
+    position: relative;
+    right: 380px;
+    top: 170px;
+    width: 410px;
+}
+#bp {
+    width: 400px;
+    position: relative;
+    top: 180px;
+    left: 70px;
+}
+button#B1 {
+    padding: 15px 40px;
+    background-color: #4BA87D;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+button#B2 {
+    float: right;
+    padding: 15px 40px;
+    border: 2px solid #4BA87D;
+    background-color: white;
+    color: #4BA87D;
+    font-weight: bold;
+}
+img#rect {
+    position: absolute;
+    top: 150px;
+    right: 88px;
+    z-index: -1;
+}
+img#rect1 {
+    position: absolute;
+    top: 80px;
+    left: 340px;
+}
+img#rect2 {
+    position: absolute;
+    top: 155px;
+    left: 55px;
+}
+img#rect3 {
+    position: absolute;
+    right: 365px;
+    top: 115px;
+}
+img#rect4 {
+    position: absolute;
+    top: 600px;
+    left: 220px;
+}
+img#ellipse {
+    position: absolute;
+    right: 550px;
+    z-index: -1;
+    top: 140px;
+}
+img#ellip1 {
+    position: absolute;
+    width: 10px;
+    left: 90px;
+    top: 440px;
+}
+img#ellip2 {
+    width: 10px;
+    position: absolute;
+    right: 75px;
+    top: 100px;
+}
+img#ellip3 {
+    width: 15px;
+    position: absolute;
+    top: 610px;
+    left: 750px;
+}
+section {
+    width: 100%;
+    height: 700px;
+    margin-top: 150px;
+    background: #F7F7F7;
+    z-index: -1;
+}
+img#pic2 {
+    position: absolute;
+    left: 10px;
+    top: 550px;
+}
+img#BG {
+    width: 99%;
+    position: absolute;
+    top: 1195px;
+}
+img#TN-img {
+    width: 76%;
+    position: absolute;
+    left: 230px;
+    top: 800px;
+}
+img#TNtext {
+    position: relative;
+    top: 265px;
+    left: 375px;
+    width: 50%;
+}
+#TNbutton {
+    background-color: white;
+    color: #4BA87D;
+    border: none;
+    padding: 25px 65px;
+    position: relative;
+    top: 410px;
+    left: -90px;
+    font-weight: 900;
+}
+figure#fig1 {
+    width:20%;
+    position: absolute;
+    top: 1430px;
+    left: 150px;
+    background: white;
+    box-shadow: 0px 1px 6px -2px;
+}#fig1 figcaption{
+    text-align: left;
+    padding:20px 30px 50px;
+}img#figcap {
+    width: 150px;
+    height: 75px;
+}.picture{width: 100%;}
+figure#fig2 {
+    width:20%;
+    position: absolute;
+    top: 1525px;
+    left: 525px;
+    background: white;
+    box-shadow: 0px 1px 6px -2px;
+}#fig2 figcaption{
+    text-align: left;
+    padding:20px 30px 40px;
+}
+p#caption {
+    position: absolute;
+    top: 1600px;
+    left: 915px;
+}
+div#dummy {
+    position: absolute;
+    top: 2075px;
+    left: 201px;
+}img#photog1 {
+    margin-right: 20px;
+}img#Cf {
+    position: absolute;
+    left: 35px;
+    top: 160px;
+}img#Cc{
+    position: absolute;
+    left: 390px;
+    top: 160px;
+}img#Ce{
+    position: absolute;
+    left: 760px;
+    top: 150px;
+}
+img#c1 {
+    position: absolute;
+    left: 180px;
+    top: 280px;
+}#c2{display: none;}
+input#input1 {
+    width: 38%;
+    position: absolute;
+    left: 220px;
+    top: 400px;
+}button#join {
+    position: absolute;
+    left: 670px;
+    top: 400px;
+    background: #4BA87D;
+    border: none;
+    color: white;
+    padding: 6px 40px;
+}p#note {
+    position: absolute;
+    top: 450px;
+    left: 235px;
+    color: #4BA87D;
+    font-size: small;
+}
+img#All {
+    position: absolute;
+    left: 320px;
+    top: 500px;
+}
+#Brands {
+    width: 100%;
+    margin: auto;
+    height: 100px;
+    position: absolute;
+    top: 2750px;
+}
+#imgs{
+    width: 65%;
+    margin: 0 auto;
+} 
+img#sl1 {
+    margin-right: 35px;
+}
+div#footer {
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    left: 0px;
+    top: 3000px;
+}
+div#main2 {
+    width: 100%;
+    height: 500px;
+}
+#get {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    color: white;
+    background: #4BA87D;
+}
+#get h1 {
+    padding-top: 50px;
+}
+#get button {
+    padding: 10px 30px;
+    background: white;
+    border: none;
+    color: #4BA87D;
+    font-weight: 900;
+    font-size: small;
+}
+#bfooter {
+    width: 89%;
+    height: 200px;
+    margin: 0 auto;
+    border-bottom: 2px solid gainsboro;
+}
+ #logo {
+    width: 20%;
+    height: 60px;
+    margin-top: 30px;
+    float: left;
+}
+#listdata {
+    width: 75%;
+    margin: 1px;
+    height: 150px;
+    margin-top: 30px;
+    float: right;
+}
+#ul1 {
+    width: 15%;
+    list-style-type: none;
+    float: left;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+footer {
+    width: 99%;
+    margin: 0 auto;
+    padding: 30px 0px;
+    height: 33px;
+}
+img#mail {
+    width: 100px;
+}
+img#ninja {
+    width: 100px;
+    padding: 15px 0px;
+}
+footer p#para {
+    float: left;
+    padding-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* for tablet */
+    @media  screen and (min-width : 601px ) and ( max-width : 992px){
+        body {
+            font-family: 'Raleway', sans-serif;
+            overflow:auto ;
+        }
+        #MP, #MC{
+            display: none;
+        }
+        div#maindiv {
+            width: 100%;
+            margin: 0 auto;
+            overflow: auto;
+        }
+        nav{
+            width: 100%;
+            height: 65px;
+        }
+        #Logo {
+            float: left;
+            position: absolute;
+            left: 0px;
+            top: 15px;
+            height: 40px;
+        }
+        img#logotext {
+            height: 20px;
+            position: absolute;
+            left: 70px;
+            top: 25px;
+        }       
+        nav ul {
+            list-style: none;
+            position: absolute;
+            top: 5px;
+            right: 150px;
+        }
+        nav li {
+            display: inline;
+            font-size: 10px;
+            font-style: normal;
+            text-decoration: underline;
+            text-decoration-color: #4BA87D;
+            margin-right: 10px;
+            text-underline-position: under;
+            text-decoration-thickness: 5px;
+        }
+        nav h6 {
+            background-color: #4BA87D;
+            color: white;
+            width: 15%;
+            font-size: 6px;
+            display: inline-block;
+            padding: 10px 30px;
+            position: absolute;
+            top: 4px;
+            right: 15px;
+        }
+        article {
+            width: 95%;
+            height: 250px;
+            background-image: url(Source/photo-1544717302-de2939b7ef71\ \(image\).jpg);
+            background-position: right;
+            background-size: 450px;
+            background-repeat: no-repeat;
+            margin: 0 auto;
+            margin-top: 100px;
+        }
+        img#Create {
+            width: 45%;
+            position: relative;
+            top: 45px;
+            left: 0px;
+        }
+        img#p1 {
+            position: relative;
+            right: 325px;
+            top: 115px;
+            width: 40%;
+        }
+        #bp {
+            width: 42%;
+            position: relative;
+            top: 105px;
+            left: 5px;
+        }    
+        button#B1 {
+            padding: 10px 20px;
+            background-color: #4BA87D;
+            color: white;
+            border: none;
+            font-weight: 300;
+        }
+        button#B2 {
+            float: right;
+            padding: 10px 20px;
+            border: 2px solid #4BA87D;
+            color: #4BA87D;
+            font-weight: 300;
+        }
+        img#rect2, #ellip2 {
+            display: none;
+        }
+        img#rect {
+            position: absolute;
+            top: 150px;
+            right: 0px;
+            z-index: -1;
+        }
+        img#rect1 {
+            position: absolute;
+            top: 80px;
+            left: 115px;
+        }
+        img#rect3 {
+            position: absolute;
+            right: 160px;
+            top: 100px;
+        }
+        img#rect4 {
+            position: absolute;
+            top: 435px;
+            left: 55px;
+        }
+        img#ellipse {
+            position: absolute;
+            right: 320px;
+            z-index: -1;
+            top: 150px;
+        }
+        img#ellip1 {
+            position: absolute;
+            width: 10px;
+            left: 10px;
+            top: 340px;
+        }
+        img#ellip3 {
+            width: 15px;
+            position: absolute;
+            top: 440px;
+            left: 380px;
+        }
+        section {
+            width: 100%;
+            height: 650px;
+            margin-top: 100px;
+            background: #F7F7F7;
+            z-index: -1;
+        }
+        img#pic2 {
+            position: absolute;
+            height: 500px;
+            left: 10px;
+            top: 445px;
+        }
+        img#TN-img {
+            width: 73%;
+            position: absolute;
+            left: 110px;
+            top: 590px;
+        }
+        img#BG {
+            width: 99%;
+            position: absolute;
+            top: 800px;
+        }
+        img#TNtext {
+            position: relative;
+            top: 200px;
+            left: 190px;
+            width: 50%;
+        }
+        #TNbutton {
+            background-color: white;
+            color: #4BA87D;
+            border: none;
+            padding: 15px 30px;
+            position: relative;
+            top: 260px;
+            left: -85px;
+            font-weight: 900;
+        }
+        img#figcap {
+            width: 100%;
+            height: 60px;
+        }
+        figure#fig1 {
+            position: absolute;
+            top: 960px;
+            left: 50px;
+            background: white;
+            box-shadow: 0px 1px 6px -2px;
+        }#fig1 img {
+            width: 100%;
+        }#fig1 figcaption {
+            width: 85%;
+            text-align: left;
+            padding: 20px 11px 40px;
+        }
+        figure#fig2 {
+            width: 20%;
+            position: absolute;
+            top: 990px;
+            left: 255px;
+            background: white;
+            box-shadow: 0px 1px 6px -2px;
+        }#fig2 figcaption {
+            width: 78%;
+            text-align: left;
+            padding: 20px 10px 35px;
+        }
+        p#caption {
+            width: 31%;
+            position: absolute;
+            top: 1025px;
+            left: 470px;
+        }
+        p#caption img {
+            width: 95%;
+        }
+        div#dummy {
+            position: absolute;
+            top: 1325px;
+            left: 45px;
+            width: 100%;
+        }div#dummy img#photog2,img#photog1 {
+            width: 28%;
+        }#Cf ,#Ce, #Cc {
+            display: none;
+        }
+        img#c1 {
+            width: 60%;
+            position: absolute;
+            left: 125px;
+            top: 180px;
+        }#c2{display: none;}
+        input#input1 {
+            position: absolute;
+            left: 145px;
+            top: 260px;
+            width: 35%;
+        }
+        button#join {
+            position: absolute;
+            left: 435px;
+            top: 260px;
+            background: #4BA87D;
+            border: none;
+            color: white;
+            padding: 6px 10px;
+        }
+        p#note {
+            position: absolute;
+            top: 310px;
+            left: 160px;
+            color: #4BA87D;
+            font-size: small;
+        }img#All {
+            position: absolute;
+            left: 200px;
+            width: 42%;
+            top: 350px;
+        }
+        #Brands {
+            width: 100%;
+            height: 100px;
+            position: absolute;
+            top: 1800px;
+        }
+        #imgs {
+            width: 75%;
+            margin: 0 auto;
+        }
+        img#sl1 {
+            margin-right: 10px;
+            width: 90px;
+        }
+        div#footer {
+            width: 100%;
+            height: 500px;
+            position: absolute;
+            left: 0px;
+            top: 1900px;
+        }
+        img#mail {
+            width: 100px;
+            position: relative;
+            left: 0;
+        }
+        #logo {
+            width: 12%;
+            height: 60px;
+            margin-top: 30px;
+            float: left;
+        }
+        img#ninja {
+            width: 100px;
+            padding: 15px 0px;
+            position: relative;
+            top: -50px;
+            left: 75px;
+        }
+        #listdata {
+            width: 77%;
+            height: 150px;
+            margin-top: 35px;
+            float: right;
+            font-size: smaller;
+        }
+        #ul1 {
+            width: 25%;
+            list-style-type: none;
+            float: left;
+            text-align: left;
+            margin-left: 0px;
+        }
+        
+footer {
+    width: 99%;
+    font-size: smaller;
+    margin: 0 auto;
+    padding: 30px 0px;
+    height: 33px;
+}
+/* .Ful1{
+    display: none;
+} */
+.Fp2{
+    display: none;
+}
+footer p#para {
+    float: left;
+    text-align: center;
+}
+
+
+        
+        
+
+        
+        
+                    
+
+
+
+
+    }
+    /* for Mobile Phone */
+    @media  screen and ( max-width : 600px){
+        body {
+            font-family: 'Raleway', sans-serif;
+            overflow:auto ;
+        }
+        div#maindiv {
+            width: 100%;
+            margin: 0 auto;
+            overflow: auto;
+        }
+        nav{
+            width: 100%;
+            height: 65px;
+        }
+        nav ul {
+            display: none;
+        }
+        #Logo {
+            float: left;
+            position: absolute;
+            left: 0px;
+            top: 10px;
+            height: 40px;
+        }
+        img#logotext {
+            height: 20px;
+            position: absolute;
+            left: 70px;
+            top: 21px;
+        }
+        nav h6 {
+            background-color: #4BA87D;
+            color: white;
+            width: 36%;
+            font-size: 9px;
+            text-align: center;
+            display: inline-block;
+            padding: 10px 25px;
+            margin: 0px;
+            position: absolute;
+            top: 15px;
+            right: 15px;
+        }
+        article {
+            width: 90%;
+            height: 400px;
+            background-image: url(Source/photo-1544717302-de2939b7ef71\ \(image\).jpg);
+            background-position: right;
+            background-repeat: no-repeat;
+            margin: 0 auto;
+            margin-top: 100px;
+        }
+        img#Create {
+            display: none;
+        }
+        img#p1 { 
+            display: none;
+        }
+        #bp {
+            width: 100%;
+            position: relative;
+            top: 300px;
+            left: 0px;
+        }       
+        button#B1 {
+            padding: 15px 30px;
+            background-color: #4BA87D;
+            color: white;
+            border: none;
+            font-weight: bold;
+        }
+        button#B2 {
+            float: right;
+            padding: 15px 30px;
+            border: 2px solid #4BA87D;
+            background-color: white;
+            color: #4BA87D;
+            font-weight: bold;
+        }
+        img#ellipse, #ellip1, #ellip2, #ellip3,#rect, #rect1, #rect2,#rect3, #rect4 {
+            display: none;
+        }
+        article {
+            width: 90%;
+            height: 255px;
+            background-image: url(Source/photo-1544717302-de2939b7ef71\ \(image\).jpg);
+            background-position: right;
+            background-size: 100%;
+            background-repeat: no-repeat;
+            margin: 0 auto;
+        }
+        #MC {
+            display: block;
+            width: 300px;
+            position: absolute;
+            top: 60px;
+        }
+        #MP {
+            display: block;
+            position: absolute;
+            top: 310px;
+        }
+        section {
+            width: 100%;
+            height: 650px;
+            background: #F7F7F7;
+            z-index: -1;
+        }
+        img#pic2 {
+            position: absolute;
+            height: 289px;
+            left: 0;
+            top: 400px;
+            width: 100%;
+        }
+        img#TN-img {
+            width: 92%;
+            position: absolute;
+            left: 15px;
+            top: 470px;
+        }
+        img#BG {
+            width: 100%;
+            height: 1050px;
+            position: absolute;
+            top: 806px;
+        }
+        img#TNtext {
+            width: 75%;
+            position: relative;
+            top: 80px;
+            left: 45px;
+        }
+        button#TNbutton {
+            padding: 10px 10px;
+            position: relative;
+            top: 100px;
+            left: 110px;
+            font-weight: 600;
+        }
+        figure#fig1 {
+            position: absolute;
+            width: 60%;
+            top: 670px;
+            left: 18px;
+            background: white;
+            box-shadow: 0px 1px 6px -2px;
+        }
+        figure#fig2 {
+            width: 60%;
+            position: absolute;
+            top: 1050px;
+            left: 110px;
+            background: white;
+            box-shadow: 0px 1px 6px -2px;
+        }
+        p#caption {
+            width: 70%;
+            position: absolute;
+            top: 1418px;
+            left: 60px;
+        }img#source, #weather {
+            width: 100%;
+        }
+        div#dummy {
+            position: absolute;
+            top: 1665px;
+            left: 0px;
+            width: 100%;
+        }
+        div#dummy #photog1, img#photog2 {
+            width: 75%;
+            margin-bottom: 20px;
+            position: relative;
+            top: 70px;
+            left: 45px;
+        }#Cf ,#Ce, #Cc {
+            display: none;
+        }
+        #c1{display: none;}
+        #c2 {
+            display: block;
+            position: absolute;
+            top: 700px;
+            left: 45px;
+            width: 75%;
+        }
+        input#input1 {
+            width: 75%;
+            position: absolute;
+            left: 45px;
+            top: 900px;
+        }
+        p#note {
+            position: absolute;
+            top: 950px;
+            left: 100px;
+            color: #4BA87D;
+            font-size: small;
+        }
+        button#join {
+            position: absolute;
+            left: 100px;
+            top: 1000px;
+            background: #4BA87D;
+            border: none;
+            color: white;
+            padding: 6px 20px;
+        }
+        img#All {
+            position: absolute;
+            left: 40px;
+            top: 1100px;
+            width: 76%;
+        }
+        #Brands {
+            display: none;
+        }
+        div#footer {
+            width: 100%;
+            overflow: auto;
+            position: absolute;
+            left: 0px;
+            top: 2850px;
+        }
+        div#main2 {
+            width: 100%;
+            overflow: auto;
+        }
+        #get h1 {
+            padding-top: 30px;
+            width: 80%;
+            padding-left: 70px;
+        }
+        #bfooter {
+            width: 100%;
+            height: 400px;
+            margin: 0 auto;
+            border-bottom: 2px solid gainsboro;
+        }
+        #logo {
+            width: 1%;
+            height: 60px;
+            margin-top: 30px;
+            float: left;
+        } img#ninja {
+            position: relative;
+            left: 75px;
+            top: -50px;
+        }
+        #listdata {
+            width: 100%;
+            margin: 1px;
+            height: 280px;
+            float: left;
+        }
+        #ul1 {
+            width: 40%;
+            margin-left: 0px;
+            list-style-type: none;
+            float: left;
+            text-align: left;
+        }
+        .Ful1{
+            margin-top: -20px;
+        }
+        footer {
+            width: 99%;
+            margin: 0 auto;
+            padding-top: 30px;
+            height: 150px;
+        }
+        footer p#para {
+            font-size: smaller;
+            padding-left: 32px;
+            float: none;
+        }
+        
+        
+        
+        
+        
+        
+       
+    }
