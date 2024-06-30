@@ -202,7 +202,7 @@ figure#fig2 {
     width:20%;
     position: absolute;
     top: 1525px;
-    left: 510px;
+    left: 485px;
     background: white;
     box-shadow: 0px 1px 6px -2px;
 }#fig2 figcaption{
@@ -212,7 +212,7 @@ figure#fig2 {
 p#caption {
     position: absolute;
     top: 1600px;
-    left: 915px;
+    left: 800px;
 }
 div#dummy {
     position: absolute;
